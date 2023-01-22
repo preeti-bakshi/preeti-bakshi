@@ -1,5 +1,5 @@
 
-![Banner](https://github.com/preeti-bakshi/preeti-bakshi/preeti.png)
+![Banner](https://github.com/preeti-bakshi/preeti-bakshi/blob/main/preeti.png)
 
 ## Hi, I'm Preeti 👋🏾 👩🏾‍💻
 * Skilled in SQL, Data Analysis, Data Modeling, Machine Learning and Data Analytics. 
