@@ -1,26 +1,24 @@
-### Hi there 👋
 
-<!--
-**preeti-bakshi/preeti-bakshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Banner](https://github.com/preeti-bakshi/preeti-bakshi/preeti.png)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi, I'm Preeti 👋🏾 👩🏾‍💻
-
-<img src="https://github.com/preeti-bakshi/preeti-bakshi/preeti.png"alt="banner that says Preeti - Data Scientist">
-I'm a software engineer who is passionate about making contributing to open-source more approachable, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. In 2020, I was selected to be an inaugural <a href="https://stars.github.com/">GitHub Star 🌟</a> based on my involvement in the tech community.  My interest in the React ecosystem led me to launch <a href="https://www.reactrobins.com/">React Robins</a>, a community for women and non-binary ReactJS developers.
+## Hi, I'm Preeti 👋🏾 👩🏾‍💻
+* Skilled in SQL, Data Analysis, Data Modeling, Machine Learning and Data Analytics. 
+* Hands-on experience with SQL query, Python and Shell Scripting.
+* Data Visualisation using graphical models such as Tableau and PowerBI.
+* Data Cleaning, Data Warehousing, ETL procedures.
+* Strong Data Science background, having 100% average grade in HyperionDev Data Science Bootcamp.
+* Experience in different phases of software development life cycle including analysis, design,development, documentation, deployment and system support.
+* Around 3 yrs experience as a Sybase Database Developer and SQL Development and Administration. 
+* Also worked as Team Lead on different software development projects and assignments.
+* Expert in Installing & configuring Sybase ASE, Maintaining Records, Monitoring Resources, 
+  Users/Login Control, writing and utilizing Stored Procedures and Triggers, Maintaining error log.
+* Possess good communication and interpersonal skills & good problem solving skills.
+* Experience of supporting high availability databases ,24*7 enterprise systems.
 
 
-## Find me around the web 🌎: <a href="https://github.com/sponsors/M0nica"><img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true"></a>
-- Learning in public on <a href="https://www.twitch.tv/blacktechdiva">Twitch</a> or <a href="https://www.monica.dev">monica.dev</a> 📹 ✍🏾
-- Tinkering with interactions on <a href="https://codepen.io/m0nica"> Codepen</a> 🏓
-- Sharing updates on <a href="https://www.linkedin.com/in/monicampowell/">LinkedIn</a> 💼
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=preeti-bakshi)](https://github.com/preeti-bakshi/github-readme-stats)
+
+
+
+## Find me around the web 🌎:
+- Sharing updates on <a href="https://www.linkedin.com/in/preeti-bakshi">LinkedIn</a> 💼
